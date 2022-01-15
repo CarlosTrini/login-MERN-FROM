@@ -8,7 +8,8 @@ const Div = styled.div`
   width: 100%;
   min-height: 100vh;
   padding: 2rem;
-  background: #12145e url("/images/wave.svg") bottom/contain no-repeat;
+  
+  background: #12145e url("../../images/wave.svg") bottom/contain no-repeat;
 
   @media (min-width: 780px) {
     display: flex;
